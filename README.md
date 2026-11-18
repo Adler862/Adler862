@@ -9,7 +9,7 @@
 ## 我的项目
 
 **[SpireTerms](https://github.com/Adler862/SpireTerms)** · 杀戮尖塔 2 卡牌术语中英对照 mod
-打牌的时候顺手记几个英文单词：卡名双写、描述里的关键词带英文，624 张卡全覆盖。词表 1208 条全部取自游戏自带的官方中英文本，没有机翻。
+打牌的时候顺手记几个英文单词：卡名、遗物名双写，描述里的关键词带英文，745 张卡和 324 件遗物全覆盖。词表 1376 条全部取自游戏自带的官方中英文本，没有机翻。
 `Python` `C#` `游戏 mod`
 
 **[class-schedule-mcp](https://github.com/Adler862/class-schedule-mcp)** · 校园课表 + 多源热点新闻的 MCP 服务
