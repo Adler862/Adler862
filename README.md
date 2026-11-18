@@ -16,10 +16,6 @@
 11 个工具、9 个新闻源并发聚合与单源失败降级、周课表图片渲染与微信直推；仓库里有协议级握手测试、离线断言与设计说明。
 `Python` `MCP (stdio)` `Pillow` `requests`
 
-**[shiguang-reader](https://github.com/Adler862/shiguang-reader)** · 拾光 · 极简阅读器
-零依赖的单文件离线阅读器（一个 HTML 就是全部），另带一个自解包启动器；多编码嗅探、迷你 Markdown 渲染、横向分页、划词批注。
-`HTML / CSS / JavaScript`
-
 **[wx-class-table](https://github.com/Adler862/wx-class-table)** · 课表小程序（课程实训项目）
 6 大节 × 7 天课表网格、周次切换、单双周判定、学期设置、应用内 Excel 导入；附教务系统 `.xls` → JSON 转换脚本。
 `微信小程序` `JavaScript` `Python`
